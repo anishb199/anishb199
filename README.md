@@ -65,10 +65,10 @@ I am actively expanding my skill set to build even more resilient, decoupled, an
 ### 📫 How to Reach Me
 
 <p>
-    <a href="https://www.linkedin.com/in/[your-linkedin-profile]/" target="_blank">
+    <a href="https://www.linkedin.com/in/anish-bhanu-9744b9217/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:[your-email@domain.com]">
+    <a href="mailto:anish.bhanu314159@gmail.com>
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
